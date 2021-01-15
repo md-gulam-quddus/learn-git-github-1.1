@@ -1,1 +1,5 @@
 I am branch3
+
+some text change 
+
+stash example
